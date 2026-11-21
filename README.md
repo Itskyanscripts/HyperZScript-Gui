@@ -22,7 +22,7 @@ local Window = HyperZ:CreateWindow({
 # Tab
 
 ```
-local Tab = Window:CreateTab("Main")
+local Tab = Window:CreateTab("Main", "home")
 ```
 
 # Section
