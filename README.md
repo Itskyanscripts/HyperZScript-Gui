@@ -4,5 +4,5 @@ Hello Welcome To My Script Gui
 # Load Gui
 
 ```
-https://raw.githubusercontent.com/Itskyanscripts/Ui/refs/heads/main/LoadMainUi
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Itskyanscripts/Ui/refs/heads/main/LoadMainUi"))()
 ```
