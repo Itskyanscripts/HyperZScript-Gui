@@ -7,18 +7,6 @@ Hello Welcome To My Script Gui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Itskyanscripts/Ui/refs/heads/main/LoadMainUI"))()
 ```
 
-
-# Window
-Can Be Customized
-
-```
-local Window = HyperZ:CreateWindow({
-	Name = "HyperZ UI",
-	LoadingTitle = "HyperZ UI",
-	LoadingSubtitle = "by HyperZscript",
-})
-```
-
 # Tab
 
 ```
